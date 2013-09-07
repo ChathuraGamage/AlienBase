@@ -10,15 +10,10 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 
-/**
- *
- * @author Dell PC
- */
+
 public class Aliens {
 
-    /**
-     * @param args the command line arguments
-     */
+   
     public static void main(String[] args) throws FileNotFoundException, IOException {
         int inputNum,base,temp;
         String message,s; 

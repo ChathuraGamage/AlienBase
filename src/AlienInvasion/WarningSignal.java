@@ -3,10 +3,7 @@ package AlienInvasion;
 import java.util.Arrays;
 import java.util.HashMap;
 
-/**
- *
- * @author Dell PC
- */
+
 public class WarningSignal {
 
     private int base;
